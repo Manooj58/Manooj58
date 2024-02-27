@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+HI ! I'm Manoj from somewhere around the earth.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manooj58)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Manooj58/Manooj58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
