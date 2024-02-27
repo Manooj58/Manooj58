@@ -2,7 +2,7 @@
 #### Design and Development
 I am a Computer Engineering student and I love to design and develop applications.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: VUE JS / REACT / HTML / CSS
 
 - 🔭 I’m currently working on myself 
 - 🌱 I’m currently learning AWS 
