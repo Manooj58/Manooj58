@@ -1,8 +1,6 @@
 ### Hi there 👋, Manoj Here !!
 #### Design and Development
-![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I am Computer Engineering student and I love to design and develop applications.
+I am a Computer Engineering student and I love to design and develop applications.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
