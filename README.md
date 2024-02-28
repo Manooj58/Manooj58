@@ -16,5 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manooj58&show_icons=true&locale=en&layout=compact" alt="manooj58" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manooj58&show_icons=true&locale=en" alt="manooj58" /></p>
 
