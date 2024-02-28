@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manoj (you can call me Manoj as well)</h1>
-<h3 align="center">A passionate frontend developer from Earth (I wish i was from Saturn tho)</h3>
+<h1 align="left">Hi 👋, I'm Manoj (you can call me Manoj as well)</h1>
+<h3 align="left">A passionate frontend developer from Earth (I wish i was from Saturn tho)</h3>
 <img aligh="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 - 🔭 I’m currently working on **Myself**
 
